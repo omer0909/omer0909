@@ -7,7 +7,7 @@
 
 ### 👨‍💻 My 42 status
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=ooz)](https://profile.intra.42.fr/users/ooz)
-[![mbari's 42 stats](https://badge42.herokuapp.com/api/stats/ooz?cursus=C%20reloaded)](https://profile.intra.42.fr/users/ooz)
+[![mbari's 42 stats](https://badge42.vercel.app/api/v2/cl1p6e1rr02210alasjjn885o/stats?cursusId=21&coalitionId=195](https://profile.intra.42.fr/users/ooz)
 
 ---
 
