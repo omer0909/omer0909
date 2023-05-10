@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ömer faruk öz
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning artificial intelligence
+- 👀 I’m interested in AI and ROS
+- 🌱 I’m currently learning ROS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me twitter @merFaru87256117
 
