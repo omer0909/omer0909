@@ -4,10 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me twitter @merFaru87256117
 
-
-### 👨‍💻 My 42 status
-[![mbari's 42 stats](https://badge42.vercel.app/api/v2/cl1p6e1rr02210alasjjn885o/stats?cursusId=21&coalitionId=195)](https://profile.intra.42.fr/users/ooz)
-
 ---
 
 ### 📈 My Github status:
